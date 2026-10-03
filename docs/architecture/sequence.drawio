@@ -1,0 +1,102 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Oldal-1" id="SaKgxEURRlKOFgZMt1PW">
+    <mxGraphModel dx="772" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-OI1w7gqgO5FPPc-LYvp-7" edge="1" parent="1" source="-OI1w7gqgO5FPPc-LYvp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-OI1w7gqgO5FPPc-LYvp-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OI1w7gqgO5FPPc-LYvp-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Felhasználó&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-OI1w7gqgO5FPPc-LYvp-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Felhasználói Felület" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-OI1w7gqgO5FPPc-LYvp-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Feladatkezelő" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-OI1w7gqgO5FPPc-LYvp-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Adattárolás" vertex="1">
+          <mxGeometry height="60" width="120" x="570" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-OI1w7gqgO5FPPc-LYvp-9" edge="1" parent="1" source="-OI1w7gqgO5FPPc-LYvp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-OI1w7gqgO5FPPc-LYvp-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="310" />
+              <mxPoint x="290" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OI1w7gqgO5FPPc-LYvp-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Új feladat" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="-OI1w7gqgO5FPPc-LYvp-16" edge="1" parent="1" source="-OI1w7gqgO5FPPc-LYvp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-OI1w7gqgO5FPPc-LYvp-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-OI1w7gqgO5FPPc-LYvp-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Létrehozás" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="-OI1w7gqgO5FPPc-LYvp-21" edge="1" parent="1" source="-OI1w7gqgO5FPPc-LYvp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="-OI1w7gqgO5FPPc-LYvp-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-OI1w7gqgO5FPPc-LYvp-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Frissített lista" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="-OI1w7gqgO5FPPc-LYvp-18" edge="1" parent="1" source="-OI1w7gqgO5FPPc-LYvp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OI1w7gqgO5FPPc-LYvp-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mentés" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="-OI1w7gqgO5FPPc-LYvp-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Siker" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="-OI1w7gqgO5FPPc-LYvp-30" edge="1" parent="1" source="-OI1w7gqgO5FPPc-LYvp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OI1w7gqgO5FPPc-LYvp-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Megjelenítés" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="-OI1w7gqgO5FPPc-LYvp-22" edge="1" parent="1" source="-OI1w7gqgO5FPPc-LYvp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.017;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" target="-OI1w7gqgO5FPPc-LYvp-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-OI1w7gqgO5FPPc-LYvp-23" edge="1" parent="1" source="-OI1w7gqgO5FPPc-LYvp-15" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="350" y="550" as="sourcePoint" />
+            <mxPoint x="660" y="555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OI1w7gqgO5FPPc-LYvp-26" edge="1" parent="1" style="shape=link;html=1;rounded=0;exitX=0.867;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="660" y="210.00000000000003" as="sourcePoint" />
+            <mxPoint x="660" y="841.02" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OI1w7gqgO5FPPc-LYvp-27" edge="1" parent="1" style="shape=link;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="480" y="210" as="sourcePoint" />
+            <mxPoint x="480" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OI1w7gqgO5FPPc-LYvp-28" edge="1" parent="1" style="shape=link;html=1;rounded=0;exitX=0.433;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="290.98" y="210" as="sourcePoint" />
+            <mxPoint x="289.02" y="807" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OI1w7gqgO5FPPc-LYvp-29" edge="1" parent="1" source="-OI1w7gqgO5FPPc-LYvp-1" style="shape=link;html=1;rounded=0;exitX=0.183;exitY=1.067;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="320" y="530" as="sourcePoint" />
+            <mxPoint x="80" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

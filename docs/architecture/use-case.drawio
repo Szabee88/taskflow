@@ -1,0 +1,47 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Oldal-1" id="SaKgxEURRlKOFgZMt1PW">
+    <mxGraphModel dx="532" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-IDG-EB37XUx6fhTHIqD-15" edge="1" parent="1" source="-IDG-EB37XUx6fhTHIqD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-IDG-EB37XUx6fhTHIqD-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-IDG-EB37XUx6fhTHIqD-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="180" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="-IDG-EB37XUx6fhTHIqD-16" edge="1" parent="1" source="-IDG-EB37XUx6fhTHIqD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="-IDG-EB37XUx6fhTHIqD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-IDG-EB37XUx6fhTHIqD-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&#xa;&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;Feladat szerkesztése&lt;/code&gt;&lt;/pre&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="210" x="280" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="-IDG-EB37XUx6fhTHIqD-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&#xa;&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;Feladat törlése&lt;/code&gt;&lt;/pre&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="210" x="280" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="-IDG-EB37XUx6fhTHIqD-18" edge="1" parent="1" source="-IDG-EB37XUx6fhTHIqD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="-IDG-EB37XUx6fhTHIqD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-IDG-EB37XUx6fhTHIqD-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&#xa;&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;Teljesítettnek jelölés&lt;/code&gt;&lt;/pre&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="210" x="280" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="-IDG-EB37XUx6fhTHIqD-17" edge="1" parent="1" source="-IDG-EB37XUx6fhTHIqD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="-IDG-EB37XUx6fhTHIqD-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="189.9999999999999" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-IDG-EB37XUx6fhTHIqD-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&#xa;&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;Feladat létrehozása&lt;/code&gt;&lt;/pre&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="210" x="280" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-IDG-EB37XUx6fhTHIqD-19" edge="1" parent="1" source="-IDG-EB37XUx6fhTHIqD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="189.9999999999999" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-IDG-EB37XUx6fhTHIqD-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&#xa;&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;Feladatok megtekintése&lt;/code&gt;&lt;/pre&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="210" x="280" y="420" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
